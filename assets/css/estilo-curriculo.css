@@ -1,0 +1,50 @@
+.todo{
+    background-color: #fdfdfd;
+    height: auto;
+    width: 90%;
+    border:1px solid #69479d;
+    border-radius: 5px;
+    margin-left: 5%;
+    margin-top:20px;
+    padding-bottom:20px;
+    margin-bottom:5%;
+}
+
+.h1-curriculo{
+    margin:15px;
+    font-size: 20px;
+    padding-left:2.5%;
+}
+
+.pre-requisito{
+    color: #8a8a8a;
+}
+
+.p-curriculo{
+    margin-left:5px !important;
+}
+.p-item-curriculo{
+    font-size: 12px;
+}
+
+#customers {
+    font-family: Verdana;
+    border-collapse: collapse;
+    width: 95%;
+    margin-left:2.5%;
+}
+
+#customers td, #customers th {
+    border: 1px solid #69479d;
+    padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #69479d;
+    color: white;
+}

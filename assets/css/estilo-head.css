@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css?family=Varela+Round");
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+.linha{
+    width: 100%;
+    height:5px;
+    background-color: #69479d;
+    top:0px;
+}
+
+.pre-menu{
+    border-bottom: 1px solid #ebebeb;
+    width: 100%;
+    height:80px;
+    margin-bottom: 2px;
+
+}
+
+.ufmc-topo{
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 140px;
+    margin-bottom: 20px;
+    float: left;
+
+}
+
+.texto-pre-menu{
+    float:left;
+    margin-top: 30px;
+    margin-left: 90px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    color: #777;
+
+}
+
+
+.footer-social-icons {
+    width: 350px;
+    display:block;
+    margin-top:8px;
+    float:right;
+}
+.social-icon {
+    color: #fff;
+}
+ul.social-icons {
+    margin-top: 10px;
+}
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+    height: 100px;
+}
+.social-icons a {
+    color: #656565;
+    text-decoration: none;
+}
+.fa-facebook {
+    padding:10px 15px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    font-size:25px;
+
+}
+.fa-facebook:hover {
+    background-color: #656565;;
+    color:white;
+    border-radius: 50px;
+}
+.fa-twitter {
+    padding:10px 12px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    font-size:25px;
+
+}
+.fa-twitter:hover {
+    background-color: #656565;;
+    color:white;
+    border-radius: 50px;
+}
+.fa-youtube {
+    padding:8px 12px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    font-size:25px;
+}
+.fa-youtube:hover {
+    background-color: #656565;;
+    color:white;
+    border-radius: 50px;
+}
+.fa-envelope {
+    padding:10px 12px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    font-size:25px;
+}
+.fa-envelope:hover {
+    background-color: #656565;;
+    color:white;
+    border-radius: 50px;
+}
+
+
+
+.capa{
+    width: 1700px;
+}
+
+.cs-topo{
+    height: 160px;
+    margin-left: 90px;
+    margin-bottom: 20px;
+    float: left;
+
+}

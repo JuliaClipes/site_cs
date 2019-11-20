@@ -8,6 +8,14 @@
 
 
 
+
+
+
+
+
+
+
+
 <section class="todo">
     <h1 class="h1-curriculo"> Etapa 1 </h1>
     <table id="customers">

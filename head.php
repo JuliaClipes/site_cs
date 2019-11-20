@@ -46,7 +46,8 @@
             <ul class="menu">
                 <li><a href="index.php">Inicio</a></li>
                 <li><a href="curriculo.php">Currículo</a></li>
-                <li><a href="#!">Coordenação</a></li>
+                <!--<li><a href="#!">Coordenação</a></li>-->
+                <li><a href="#!">Sobre</a></li>
                 <li><a href="referencias.php">Referências</a></li>
 
                 <form class="search-container">

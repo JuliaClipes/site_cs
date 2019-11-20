@@ -13,7 +13,7 @@
     <table id="customers">
         <tr>
             <th>Código</th>
-            <th>Disciplina<a class="pre-requisito">Pré-Requisito</a></th>
+            <th>Disciplina/<a class="pre-requisito">Pré-Requisito</a></th>
             <th>Caráter</th>
             <th>Créditos</th>
             <th>Carga Horária</th>

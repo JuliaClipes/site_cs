@@ -159,7 +159,7 @@ h1{
 .extra-linha-1{
     height: 140px;
     width: 70%;
-    justify-content: space-between;
+    justify-content:space-around;
     display:flex;
     margin-left:130px;
     margin-top: 50px;
@@ -206,7 +206,7 @@ h1{
 .extra-linha-2{
     height: auto;
     width: 70%;
-    justify-content: space-between;
+    justify-content:space-around;
     display:flex;
     margin-left:130px;
 }

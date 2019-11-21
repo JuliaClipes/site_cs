@@ -5,7 +5,10 @@
     background-color: #69479d;
     top:0px;
 }
-
+.menu li a{
+    padding: 0 !important;
+line-height:0px !important;
+}
 .pre-menu{
     border-bottom: 1px solid #ebebeb;
     width: 100%;

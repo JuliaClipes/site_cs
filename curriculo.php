@@ -1,20 +1,24 @@
 <?php include_once "head.php"; ?>
 
 <section>
-    <article>
-        <p class="p-curriculo">Curso: Ciências Socias </p>
+    <article class="info-curriculo-1">
+        <p class="p-curriculo"> <a class="p-curriculo-des">Curso:</a>  CIÊNCIAS SOCIAIS </p>
+        <p class="p-curriculo"> <a class="p-curriculo-des">Habilitação:</a>  LICENCIATURA EM CIÊNCIAS SOCIAIS - NOTURNA </p>
     </article>
+    <article class="info-curriculo">
+        <p class="p-curriculo"> <a class="p-curriculo-des">Créditos Obrigatórios:</a>147 </p>
+        <p class="p-curriculo"> <a class="p-curriculo-des">Créditos Eletivos:</a> 43 </p>
+        <p class="p-curriculo"> <a class="p-curriculo-des">Créditos Totais:</a>190 </p>
+    </article>
+    <article class="info-curriculo">
+        <p class="p-curriculo"> <a class="p-curriculo-des">Carga Horária Obrigatória::</a>2355</p>
+        <p class="p-curriculo"> <a class="p-curriculo-des">Carga Horária Eletiva:</a> 645</p>
+        <p class="p-curriculo"> <a class="p-curriculo-des">Carga Horária Total:</a> 3208 </p>
+
+
+    </article>
+
 </section>
-
-
-
-
-
-
-
-
-
-
 
 <section class="todo">
     <h1 class="h1-curriculo"> Etapa 1 </h1>

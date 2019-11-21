@@ -11,7 +11,7 @@
     <div class="conteudo-direita-r">
         <article class="article-r">
         <p class="p-referencia"> Instituto de Filosofia e Ciências Humanas </p>
-        <a class="a-referencia"> https://www.ufrgs.br/ifch/index.php/br/direcao</a>
+        <a class="a-referencia"> https://www.ufrgs.br/ifch/index.php/</a>
         </article>
         <article class="article-r-e">
         <p class="p-referencia"> Universidade Federal do Rio Grande do Sul</p>
@@ -29,3 +29,4 @@
     </div>
 
 </section>
+<?php include_once "footer.php"; ?>
